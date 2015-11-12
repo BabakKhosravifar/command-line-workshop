@@ -1,0 +1,6 @@
+    1  git init
+    2  git checkout -b finding-files
+    3  git checkout master
+    4  git checkout -b cmd-history
+    5  history 
+    6  history > history.txt
