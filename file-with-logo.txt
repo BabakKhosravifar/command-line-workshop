@@ -1,0 +1,2 @@
+./.c9/metadata/workspace/file-with-logo.txt
+./file-with-logo.txt
